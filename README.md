@@ -3,7 +3,7 @@
 - Currently looking for a job
 - Currently learning Python for Data Science
 - I’m looking to collaborate on any projects
-- How to reach me: all my users is the same(shinzatogabriel)
+- How to reach me: all my users are the same(shinzatogabriel)
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
