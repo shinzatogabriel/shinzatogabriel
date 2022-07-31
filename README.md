@@ -1,6 +1,7 @@
 ### Gabriel Kiyoshi Shinzato
 
-- Currently looking for a job
+- Data intern at Vai de Bolsa
+- Innovation Network agent at ACATE 
 - Currently learning Python for Data Science
 - I’m looking to collaborate on any projects
 - How to reach me: all my users are the same(shinzatogabriel)
